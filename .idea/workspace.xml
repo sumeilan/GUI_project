@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="8f9a2380-5493-4466-8c25-908b0c36c956" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +25,14 @@
       <GitPushTagMode />
     </option>
   </component>
+=======
+>>>>>>> 8f109102868a6bc69a24e1666bd0a60ea8f33b25
   <component name="ProjectFrameBounds">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -132,4 +136,12 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
+=======
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+>>>>>>> 8f109102868a6bc69a24e1666bd0a60ea8f33b25
 </project>
